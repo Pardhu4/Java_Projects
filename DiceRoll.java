@@ -5,8 +5,7 @@ class DiceRoll{
         Random rand = new Random();
         System.out.println("********************");
         System.out.println("Welcome to die roll");
-        System.out.println("********************");
-
+        System.out.println("********************");        
         System.out.print("Enter number of die to roll:");
         int number = sc.nextInt();
         int total=0;
